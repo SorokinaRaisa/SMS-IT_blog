@@ -1,0 +1,261 @@
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Все для учебы\3 курс\Практика\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Все для учебы\3 курс\Практика\SMS_IT\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Raisa\Desktop\SMS_IT-master (2)\SMS_IT-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
