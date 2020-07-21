@@ -1,7 +1,7 @@
 ﻿@model WebApplication1.Models.DBModels.User
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Регистрация";
 }
 
     <div class="col-sm-6 col-sm-offset-2">
@@ -21,7 +21,7 @@
         </div>
         <div class="form-group">
             @Html.LabelFor(model => model.Email)
-            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control ", placeholder = "Пример: ex@example.ex", width = "100" } })
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control ", placeholder = "example@ex.ru", width = "100" } })
             @Html.ValidationMessageFor(model => model.Email)
         </div>
         <div class="form-group">

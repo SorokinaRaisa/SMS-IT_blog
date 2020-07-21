@@ -4,7 +4,7 @@
 @model WebApplication1.Models.DBModels.Post
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Блог любителей серфинга";
 }
 
 @if (Session["UserId"] != null)
@@ -41,10 +41,6 @@
 
                     </div>
             </div>
-
-
-
-        
 }
 
 
@@ -66,7 +62,7 @@
     @post.Author.Nickname
     <br>
     @post.PublishDate
-</div>
+        </div>
         <div class="panel-body">
             <p>@post.Text</p>
 
@@ -77,6 +73,6 @@
                 <img src="@Url.Content(url)" class="full-width" width="800" />
             </div>
             }
-                </div>
         </div>
+    </div>
 }

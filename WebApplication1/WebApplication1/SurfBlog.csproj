@@ -141,7 +141,7 @@
     <Compile Include="Helpers\ImageUrlHelper.cs" />
     <Compile Include="Models\DBModels\Post.cs" />
     <Compile Include="Models\DBModels\User.cs" />
-    <Compile Include="Models\DBModels\ViewModels1\MyModel.cs" />
+    <Compile Include="Models\DBModels\ViewModel\MyModel.cs" />
     <Compile Include="Models\ViewModels\LoginViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
