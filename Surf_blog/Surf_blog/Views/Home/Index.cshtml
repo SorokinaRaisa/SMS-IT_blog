@@ -1,0 +1,40 @@
+﻿@model Surf_blog.Models.ViewModels.LoginViewModel
+@{
+    ViewBag.Title = "Клуб любителей серфинга - авторизация";
+}
+
+@using (Html.BeginForm("Login", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="col-sm-6 col-sm-offset-4">
+        <div class="panel panel-default tiny-panel">
+            <div class="panel-heading">
+                Авторизация
+            </div>
+            <div class="panel-body">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Nickname)
+                    @Html.EditorFor(model => model.Nickname, new { htmlAttributes = new { @class = "form-control" } })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Password)
+                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", type = "Password" } })
+                </div>
+                <div class="form-group checkbox-inline">
+                    @Html.CheckBoxFor(model => model.RememberMe, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.LabelFor(model => model.RememberMe, new { htmlAttributes = new { @class = "remember-label" } })
+                </div>
+                <div>
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <h3 class="text-danger">@ViewBag.Message</h3>
+                </div>
+                <div class="col-sm-6 col-sm-offset-2">
+                    <button type="submit" class="btn btn-default">Войти</button>
+                </div>
+            </div>
+        </div>
+        <div>
+            <label>Нет аккаунта?</label>
+            <a href="@Url.Action("Index","Register")" class="btn btn-default" role="button">Зарегистрироваться</a>
+        </div>
+    </div>
+}
